@@ -1,6 +1,10 @@
 # ClearTrip
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+I created Hotels Module involves several key components-
+1. Search & Filters: Implement a search bar allowing users to input a destination,check-in/check-out dates,and the number of guests.Filters for price range,hotel ratings,etc.
+2. listing Results: Display a list of hotels based on the search criteria.Each hotel should include essential information like name,price,ratings,images,and a brief description.
+
 
 ## Development server
 
